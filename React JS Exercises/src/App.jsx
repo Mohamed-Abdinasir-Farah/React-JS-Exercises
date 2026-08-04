@@ -1,12 +1,1 @@
-// App.jsx
-import UserCard from './Exercise1';
-
-const App = () => {
-  return (
-    <div>
-      <UserCard/>
-    </div>
-  );
-};
-
-export default App;
+export {default} from './Exercise2/Exercise2';
