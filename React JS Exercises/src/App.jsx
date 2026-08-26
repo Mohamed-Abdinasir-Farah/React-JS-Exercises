@@ -1,2 +1,0 @@
-// export {default} from './Exercise2/Exercise2';
-export {default} from './Exercise3/Exercise3';
