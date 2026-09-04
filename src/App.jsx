@@ -2,4 +2,5 @@
 // export {default} from './Exercise3/Exercise3';
 // export {default} from './Exercise4/App';
 // export {default} from './Exercise5/ShoppingCart';
-export {default} from './Exercise6/Exercise6'
+// export {default} from './Exercise6/Exercise6';
+export {default} from './Exercise7/Exercise7';
