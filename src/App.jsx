@@ -5,4 +5,5 @@
 // export {default} from './Exercise6/Exercise6';
 // export {default} from './Exercise7/Exercise7';
 // export {default} from './Exercise8/Exercise8';
-export {default} from './Exercise9/Exercise9';
+// export {default} from './Exercise9/Exercise9';
+export {default} from './Exercise10/Exercise10';
