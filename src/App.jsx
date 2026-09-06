@@ -8,4 +8,5 @@
 // export {default} from './Exercise9/Exercise9';
 // export {default} from './Exercise10/Exercise10';
 // export {default} from './Exercise11/LoginForm';
-export {default} from './Exercise12/CountDown';
+// export {default} from './Exercise12/CountDown';
+export {default} from './Exercise13/DoubleCounter';
