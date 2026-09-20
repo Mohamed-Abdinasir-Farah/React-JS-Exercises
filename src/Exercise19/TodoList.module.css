@@ -1,0 +1,12 @@
+.container {
+  width: 90%;
+  max-width: 650px;
+  margin: 20px auto;
+}
+
+.emptyMessage {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 17px;
+  color: #666;
+}

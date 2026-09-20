@@ -14,4 +14,8 @@
 // export {default} from './Exercise14/Registration';
 // export {default} from './Exercise15/App';
 // export {default} from './Exercise16/App';
-export {default} from './Exercise17/App';
+// export {default} from './Exercise17/App';
+// export {default} from './Exercise18/App';
+// export {default} from './Exercise19/App';
+// export {default} from './Exercise20/App';
+export {default} from './Exercise21/App';

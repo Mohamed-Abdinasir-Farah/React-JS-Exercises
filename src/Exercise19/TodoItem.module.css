@@ -1,0 +1,67 @@
+.todoItem {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+
+.todoContent {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.checkbox {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.todoText {
+  font-size: 17px;
+  word-break: break-word;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.editButton,
+.deleteButton {
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.editButton {
+  background-color: #0645d9;
+}
+
+.editButton:hover {
+  background-color: #0645d9;
+}
+
+.deleteButton {
+  background-color: #ed0909;
+}
+
+.deleteButton:hover {
+  background-color: #ed0909;
+}
